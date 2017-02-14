@@ -10,7 +10,6 @@
 
 * [构建者usage](beds_doc/builder-useage.md)
     * [builder的使用]()
-    * [builder原理]
     
 
 
